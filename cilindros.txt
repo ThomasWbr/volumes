@@ -1,0 +1,16 @@
+[
+    {
+        "nome": "Xícara-azul",
+        "unidade": "cm",
+        "altura": 7,
+        "raio": 4,
+        "volume": 0.3518583772020568
+    },
+    {
+        "nome": "Garrafinha",
+        "unidade": "cm",
+        "altura": 19,
+        "raio": 3,
+        "volume": 0.5372123437638546
+    }
+]
