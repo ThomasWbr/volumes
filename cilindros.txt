@@ -19,5 +19,26 @@
         "altura": 8.5,
         "raio": 4.5,
         "volume": 0.5407466354991431
+    },
+    {
+        "nome": "CilindroA",
+        "unidade": "cm",
+        "altura": 8,
+        "raio": 4,
+        "volume": 0.40212385965949354
+    },
+    {
+        "nome": "CilindroB",
+        "unidade": "cm",
+        "altura": 8,
+        "raio": 5,
+        "volume": 0.6283185307179586
+    },
+    {
+        "nome": "CilindroC",
+        "unidade": "cm",
+        "altura": 9,
+        "raio": 4,
+        "volume": 0.4523893421169302
     }
 ]

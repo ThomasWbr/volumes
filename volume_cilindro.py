@@ -41,7 +41,10 @@ try:
     objetos = [
         Cilindro("Xícara-azul", "cm", 7, 4),
         Cilindro("Garrafinha", "cm", 19, 3),
-        Cilindro("Xícara-grande", "cm", 8.5, 4.5)
+        Cilindro("Xícara-grande", "cm", 8.5, 4.5),
+        Cilindro("CilindroA", "cm", 8, 4),
+        Cilindro("CilindroB", "cm", 8, 5),
+        Cilindro("CilindroC", "cm", 9, 4)
     ]
 except ValueError as e:
     print(f"Erro ao criar cilindro: {e}")
