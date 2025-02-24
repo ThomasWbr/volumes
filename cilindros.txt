@@ -12,5 +12,12 @@
         "altura": 19,
         "raio": 3,
         "volume": 0.5372123437638546
+    },
+    {
+        "nome": "Xícara-grande",
+        "unidade": "cm",
+        "altura": 8.5,
+        "raio": 4.5,
+        "volume": 0.5407466354991431
     }
 ]

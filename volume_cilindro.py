@@ -22,8 +22,8 @@ class Cilindro:
         else:
             return vCm
 
+    # Converte o objeto para um dicionário para salvá-lo como JSON.
     def dicionario(self):
-        """Converte o objeto para um dicionário para salvar como JSON."""
         return {
             "nome": self.nome,
             "unidade": self.unidade,
@@ -40,7 +40,8 @@ class Cilindro:
 try:
     objetos = [
         Cilindro("Xícara-azul", "cm", 7, 4),
-        Cilindro("Garrafinha", "cm", 19, 3)
+        Cilindro("Garrafinha", "cm", 19, 3),
+        Cilindro("Xícara-grande", "cm", 8.5, 4.5)
     ]
 except ValueError as e:
     print(f"Erro ao criar cilindro: {e}")
